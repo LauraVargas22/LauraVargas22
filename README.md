@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Laura Vargas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
-<!--
-**LauraVargas22/LauraVargas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-Here are some ideas to get you started:
+<img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I’m currently working on ...
+I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - JavaScrip
+  - Java
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- 📫 Reach out to me at: <a href="lauramarianavargasrojas22@gmail.com">Contact me</a>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,github,html,java,js,linux,py,vscode," />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
