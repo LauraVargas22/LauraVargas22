@@ -15,7 +15,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - Java
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- Outside tech, 🎵 listening to music, and 📖 reading books.
 - 📫 Reach out to me at: <a href="lauramarianavargasrojas22@gmail.com">Contact me</a>
 
 <div id="user-content-toc">
