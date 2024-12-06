@@ -9,13 +9,13 @@
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+I'm a software development student. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - JavaScrip
+  - JavaScript
   - Java
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎵 listening to music, and 📖 reading books.
+- Outside tech, 🎵 listening to music, and 📖 reading history books.
 - 📫 Reach out to me at: <a href="lauramarianavargasrojas22@gmail.com">Contact me</a>
 
 <div id="user-content-toc">
