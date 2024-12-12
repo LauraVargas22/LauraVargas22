@@ -2,25 +2,25 @@
 <!--  -->
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=23fff4background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
 </div>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="30px">&nbsp;***About me***
 
-I'm a software development student. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
+My name is Mariana Vargas. I'm from Duitama, Boyacá. I'm a software development student at Campuslands, Bucaramanga. I am interested in expanding my knowledge in both front-end and back-end development. Through some experiences, I have learned important soft skills such as leadership, teamwork, and assertive communication, which are useful in my learning process. 
+- 🌱 Now, I’m learning about...
   - JavaScript
   - Java
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎵 listening to music, and 📖 reading history books.
+- 👯 I like to work as part of a team because it allows me to both share knowledge and learn from others. <br>
+- In my spare time, 👩‍💻 I enjoy exploring topics related to technology and education, spending time with my family, and 📖 reading history books.
 - 📫 Reach out to me at: <a href="lauramarianavargasrojas22@gmail.com">Contact me</a>
+- Feel free to visit my <a href="www.linkedin.com/in/laura-vargas2209s">LinkedIn profile</a> to learn more about my background.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
