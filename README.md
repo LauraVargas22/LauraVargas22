@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=23fff4background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
 </div>
-<img align="right" width=300px alt="Unicorn" style="background: black;" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="30px">&nbsp;***About me***
 
@@ -15,8 +15,8 @@ My name is Mariana Vargas. I'm from Duitama, Boyacá. I'm a software development
   - Java
 - 👯 I like to work as part of a team because it allows me to both share knowledge and learn from others. <br>
 - In my spare time, 👩‍💻 I enjoy exploring topics related to technology and education, spending time with my family, and 📖 reading history books.
-- 📫 Reach out to me at: <a href="lauramarianavargasrojas22@gmail.com">Contact me</a>
-- Feel free to visit my <a href="www.linkedin.com/in/laura-vargas2209s">LinkedIn profile</a> to learn more about my background.
+- 📫 Reach out to me at: **lauramarianavargasrojas22@gmail.com**
+- Feel free to visit my LinkedIn profile **www.linkedin.com/in/laura-vargas2209s** to learn more about my background.
 
 <div id="user-content-toc">
   <ul align="center">
