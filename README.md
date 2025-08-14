@@ -9,14 +9,14 @@
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="30px">&nbsp;***About me***
 
-My name is Mariana Vargas. I'm from Duitama, Boyacá. I'm a software development student at Campuslands, Bucaramanga. I am interested in expanding my knowledge in both front-end and back-end development. Through some experiences, I have learned important soft skills such as leadership, teamwork, and assertive communication, which are useful in my learning process. 
+My name is Mariana Vargas. I'm a software developer technician graduated from Campuslands, Bucaramanga. Currently, I'm a data science engineering student at UIS. I am interested in expanding my knowledge in both front-end and back-end development. Through some experiences, I have learned important soft skills such as leadership, teamwork, and assertive communication, which are useful in my learning process. 
 - 🌱 Now, I’m learning about...
-  - JavaScript
-  - Java
+  - Typescript
+  - Angular
 - 👯 I like to work as part of a team because it allows me to both share knowledge and learn from others. <br>
 - In my spare time, 👩‍💻 I enjoy exploring topics related to technology and education, spending time with my family, and 📖 reading history books.
 - 📫 Reach out to me at: **lauramarianavargasrojas22@gmail.com**
-- Feel free to visit my LinkedIn profile **www.linkedin.com/in/laura-vargas2209s** to learn more about my background.
+- Feel free to visit my LinkedIn profile **www.linkedin.com/in/laura-vargas2209s** and my portfolio **https://lauravargasportafolio.netlify.app/?page=2** to learn more about my background.
 
 <div id="user-content-toc">
   <ul align="center">
@@ -26,7 +26,7 @@ My name is Mariana Vargas. I'm from Duitama, Boyacá. I'm a software development
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,github,html,java,js,linux,py,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,discord,figma,github,linux,vscode,html,js,css,vite,bootstrap,cpp,py,cs,net,mysql,postgresql" />
   </a>
 </p>
 
